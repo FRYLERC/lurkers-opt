@@ -1,0 +1,6 @@
+{
+  "name": "Lurkers.io Cliente Optimizado & Panel DEV",
+  "description": "Cliente optimizado para Lurkers.io a 240 FPS estables con laboratorio interactivo, panel de administración dev, roles y álbum de cosméticos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
